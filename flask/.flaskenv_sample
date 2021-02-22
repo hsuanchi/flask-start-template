@@ -1,0 +1,4 @@
+export FLASK_APP=main.py
+export FLASK_ENV=production
+export db='mysql+pymysql://account:password@ip:3306/products'
+export key='this is secert'

@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Custom
+ssl.*
+*.flaskenv
+
 # C extensions
 *.so
 
